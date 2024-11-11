@@ -3,3 +3,4 @@
 - [x] Day 1 - [Print into the World](/Day%201%20-%20Print%20into%20the%20World/project_1.py)
 - [x] Day 2 - [Getting to Know You](/Day%202%20-%20Getting%20to%20Know%20You/project_2.py)
 - [x] Day 3 - [The Ultimate Wacky Recipe Maker](/Day%203%20-%20The%20Ultimate%20Wacky%20Recipe%20Maker/project_3.py)
+- [x] Day 4 - [Everyone loves a good story!](/Day%204%20-%20Everyone%20loves%20a%20good%20story!/project_4.py)
