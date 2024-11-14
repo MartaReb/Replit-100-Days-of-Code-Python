@@ -4,3 +4,4 @@
 - [x] Day 2 - [Getting to Know You](/Day%202%20-%20Getting%20to%20Know%20You/project_2.py)
 - [x] Day 3 - [The Ultimate Wacky Recipe Maker](/Day%203%20-%20The%20Ultimate%20Wacky%20Recipe%20Maker/project_3.py)
 - [x] Day 4 - [Everyone loves a good story!](/Day%204%20-%20Everyone%20loves%20a%20good%20story!/project_4.py)
+- [x] Day 5 - [Which character are you](/Day%205%20-%20Which%20character%20are%20you/project_5.py)
