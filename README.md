@@ -4,4 +4,5 @@
 
 
 </div>
-<h1 align="center">100 Days of Code</h1>
+
+- [x] Day 1 - [Print into the world](/Day%201%20-%20Print%20into%20the%20world/project_1.py)
