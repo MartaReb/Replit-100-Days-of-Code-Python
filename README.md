@@ -4,4 +4,5 @@
 
 </div>
 
-- [x] Day 1 - [Print into the World](/Day%201%20-%20Print%20into%20the%20world/project_1.py)
+- [x] Day 1 - [Print into the world](/Day%201%20-%20Print%20into%20the%20world/project_1.py)
+- [x] Day 2 - [Getting to know you](/Day%202%20-%20Getting%20to%20know%20you/project_2.py)
