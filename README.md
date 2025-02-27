@@ -10,3 +10,4 @@
 - [x] Day 4 - [Everyone loves a good story!](/Day%204%20-%20Everyone%20loves%20a%20good%20story!/project_4.py)
 - [x] Day 5 - [Which character are you](/Day%205%20-%20Which%20character%20are%20you/project_5.py)
 - [x] Day 6 - [Login program](/Day%206%20-%20Login%20program/project_6.py)
+- [x] Day 7 - [Fake fan question generator](/Day%207%20-%20Fake%20fan%20question%20generator/project_7.py)
