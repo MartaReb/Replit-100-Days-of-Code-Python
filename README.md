@@ -12,3 +12,4 @@
 - [x] Day 6 - [Login program](/Day%206%20-%20Login%20program/project_6.py)
 - [x] Day 7 - [Fake fan question generator](/Day%207%20-%20Fake%20fan%20question%20generator/project_7.py)
 - [x] Day 8 - [Affirmations](/Day%208%20-%20Affirmations/project_8.py)
+- [x] Day 9 - [Generation generator](/Day%209%20-%20Generation%20generator/project_9.py)
