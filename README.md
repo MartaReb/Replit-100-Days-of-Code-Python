@@ -20,3 +20,4 @@
 - [x] Day 14 - [Rock - Paper - Scissors game](/Day%2014%20-%20Rock%20-%20Paper%20-%20Scissors%20game/project_14.py)
 - [x] Day 15 - [Animal sound](/Day%2015%20-%20Animal%20sound/project_15.py)
 - [x] Day 16 - [Name the lyrics](/Day%2016%20-%20Name%20the%20lyrics/project_16.py)
+- [x] Day 17 - [Rock-Paper-Scissors (scoring) game](/Day%2017%20-%20Rock-Paper-Scissors%20(scoring)%20game/project_17.py)
